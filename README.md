@@ -15,6 +15,7 @@ property_transaction_victoria.xlsm
 
 Shell Commands - Property Data Analysis Code.pdf
 - Shell code inputs and outputs accompanied by justifications
+  - Each code block executes a complex query. However, the query document is not available.
 
 The Unix Shell_ All in One View.pdf
 - Learning resource
